@@ -1,7 +1,7 @@
 ### jovemprogramador
 Pessoal para esse texto estou utilizando como base esse ["Tutorial"](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open) como instrução de Markdown ou .md   Essa é a primeira vez que edito um arquivo como forma de documentação utlizando MD.
 
-**Utilizando como forma de documentar o curso, e registrar possíveis projetos.**
+**Utilizando esse repositório como forma de documentar o curso, e registrar possíveis projetos.**
 
 No **primeiro dia** do curso, foram apresentadas as **empresas patrocinadoras**, isso me chamou atenção, printei e deixei salvo ["Aqui"](https://github.com/henriquegnu/jovemprogramador/commit/fb21e386aae4e09c98ddf1204731a2b8f007ec79) para entrar em contato de forma mais pessoal
 indico essa técnica, terminando as "propagandas", depois de muitas reclamações de pessoas chatonildas, fomos para a parte de lógica pura, o professor
