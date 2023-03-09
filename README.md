@@ -32,3 +32,6 @@ e agir, acho que era pra dar uma filtrada, ou só pra ver quem ia até o final m
 que por coincidencia se chama "empresa", a outra é só "print", fiz na correria e escrevi a primeira coisa que minha mente botou pra fora.
 
 Agora é aguardar o resultado no próximo dia 08 ainda nesse mes de março de 2023.
+
+
+No momento estou na segunda chamada, não passei na seleção pois minha renda é maior, caso sobrem vagas serei chamado!
