@@ -1,4 +1,7 @@
 ### jovemprogramador
+
+**PROCESSO ENCERRADA, INCOMPATÍVEL COM MEU HORÁRIO, TALVEZ UMA PRÓXIMA!**
+
 Pessoal para esse texto estou utilizando como base esse ["Tutorial"](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open) como instrução de Markdown ou .md   Essa é a primeira vez que edito um arquivo como forma de documentação utlizando MD.
 
 **Utilizando esse repositório como forma de documentar o curso, e registrar possíveis projetos.**
